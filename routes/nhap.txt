@@ -1,0 +1,6 @@
+bảng cmt
+- id
+- user_id
+- post_id
+- content
+- parent_id
